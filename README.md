@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-How to run this Application
+Please follow below Steps to know how to run this Application ?
 
 Download Visual Studio Code(if don't have already on your system)
 
