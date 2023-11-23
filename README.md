@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+How to run this Application
+
+Download Visual Studio Code(if don't have already on your system)
+
+Download All the provided files and folder and store everything into Single Folder with any relevant name and open with Visual studio code.
+
+Then after opening Project Folder in VS Code , make sure you install node on your system through this link --> https://nodejs.org/en/download
+
+After installing node , open a terminal on vscode. Type command npm install, and let it finish.
+
+After that type command npm start.
+
+It will start development server with hot reloading at http://localhost:3000/
+you can see the project running on browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
